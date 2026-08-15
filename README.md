@@ -1,5 +1,5 @@
 # Analyzing-a-vulnerable-system-for-a-small-business
-As a part of Google Cybersecurity Specialization This is activity analyzing vulnerable system for a small business
+Small-Business-Vulnerability-Assessment
 # **Vulnerability Assessment Report**
 
 ## **1st January 20XX**
